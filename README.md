@@ -1,5 +1,6 @@
-[![eyes](https://github.com/user-attachments/assets/4c4b0a3f-461f-4a90-bbbc-9c45e15ee5a5 "Alexis Kofman")](https://github.com/akofman)
-
+<a href="https://github.com/akofman">
+  <img src="https://github.com/user-attachments/assets/4c4b0a3f-461f-4a90-bbbc-9c45e15ee5a5" alt="Alexis Kofman" width="600" height="350"/>
+</a>
 <!--
 **akofman/akofman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
