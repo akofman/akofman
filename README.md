@@ -1,6 +1,4 @@
-
-
-[![cat](https://github.com/user-attachments/assets/fadb367b-d9db-40df-b2e1-3c0e9cd8f0de "Alexis Kofman")](https://github.com/akofman)
+[![eyes](https://github.com/user-attachments/assets/4c4b0a3f-461f-4a90-bbbc-9c45e15ee5a5 "Alexis Kofman")](https://github.com/akofman)
 
 <!--
 **akofman/akofman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
