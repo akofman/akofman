@@ -1,6 +1,6 @@
 
-![pixel-jeff-matrix-s](https://github.com/user-attachments/assets/402d717a-b1a0-4415-8001-a072e5f79f7e)
 
+[![cat](https://github.com/user-attachments/assets/fadb367b-d9db-40df-b2e1-3c0e9cd8f0de "Alexis Kofman")](https://github.com/akofman)
 
 <!--
 **akofman/akofman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
