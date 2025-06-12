@@ -1,4 +1,6 @@
-## Hi there 👋
+
+![pixel-jeff-matrix-s](https://github.com/user-attachments/assets/402d717a-b1a0-4415-8001-a072e5f79f7e)
+
 
 <!--
 **akofman/akofman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
